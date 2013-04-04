@@ -8,7 +8,7 @@ var HomeView = Backbone.View.extend({
             + '<p>The router displays this view when you call <a href="#home">#home route</a>, and it is also the <a href="#whatever">default route</a>.</p>'
             + '<p>Here is the application we want to build :</p>'
             + '<img src="img/diagram.png" alt="Backbone app diagram">'
-            + '<ol><li>Try to make your <a href="#people">own view</a> connected to #people route.</li></ol>'
+            + '<ol><li>Try to make your own view (PeopleView) connected to <a href="#people">#people route</a>.</li></ol>'
         );
 
         return this;
