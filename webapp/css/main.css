@@ -36,3 +36,24 @@ body {
 .container .credit {
     margin: 20px 0;
 }
+
+.router, .view, .collection, .model {
+    font-weight: bold;
+    text-shadow: 1px 1px 2px #ccc;
+}
+
+.router {
+    color: #0099CC;
+}
+
+.view {
+    color: #33CC66;
+}
+
+.collection {
+    color: #FF6600;
+}
+
+.model {
+    color: #FFCC00;
+}
