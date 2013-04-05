@@ -10,6 +10,7 @@ Aim
 The aim is to develop a small application using router, views, models and collections. Read [Backbone documentation](http://backbonejs.org/) for details.
 
 Here is the application we want to build :
+
 ![App diagram](/webapp/img/diagram.png "App diagram")
 
 
